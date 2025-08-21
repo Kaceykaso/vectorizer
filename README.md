@@ -16,15 +16,3 @@ Your project is live at:
 
 **[https://vercel.com/kaceylewis-vantacoms-projects/v0-png-to-svg-converter](https://vercel.com/kaceylewis-vantacoms-projects/v0-png-to-svg-converter)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/4F72MCQ2E30](https://v0.app/chat/projects/4F72MCQ2E30)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
